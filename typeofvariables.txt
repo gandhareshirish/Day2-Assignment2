@@ -1,0 +1,27 @@
+let a=1;
+console.log(typeof(1));
+if a is 1 whose type of  variable is number.
+let a=1.1;
+console.log(typeof(1.1));
+if a is 1.1 whose type of  variable is number.
+let a='1.1';
+console.log(typeof('1.1'));
+if a is '1.1' whose type of  variable is string.
+let a=true;
+console.log(typeof(true));
+if a is true whose type of  variable is boolean.
+let a= null;
+console.log(typeof(null));
+if a is null whose type of  variable is object.
+let a=undefined;
+console.log(typeof(undefined));
+if a is null whose type of  variable is undefined.
+let a=[];
+console.log(typeof([]));
+if a is [] whose type of  variable is object.
+let a={};
+console.log(typeof({}));
+if a is {} whose type of  variable is object.
+let a=NaN;
+console.log(typeof(NaN));
+if a is NaN whose type of  variable is Number.
